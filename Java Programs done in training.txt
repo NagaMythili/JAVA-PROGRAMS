@@ -1,0 +1,23 @@
+1.Write a java program for Hello World and execute with javap command.
+2.Write a java program to find the default values of Data Types
+3.Write a java program to find the Data type class name as output.
+4.Write a java program to show the difference between variable decleration and variable initialization.
+5.Write a java program to find the constant value and default value of constant variable.
+6.Write a java program for implicit type conversion.
+7.Write a java program for explicit type conversion.
+8.Write a java program for operators
+9.Write a java program for list problem.
+10.Write a java program for password check.
+11.Write a java program for job eligibility.
+          Constraints : (age>18{major} and age>23{eligible for job}).
+12.Write a java program for variable cases  with name starting with $ symbol.
+13.Write a java program using break statement ,continue and label.
+14.Write a java program consider a group of elements ,divide those elements as
+      individual elements, exclude the highest value among the list and add remaining elements and find theresult and 
+      return the result using 1D array.
+15.Write a java program to perform transpose of matrix.
+16.Write a java program on jagged arrays
+17.Write a java program for pre, post increment for decrement.
+18.Write a java program for evaluation of expression.
+19.Write a java program on Hungarian Notations.
+20.Write a java program using both literal and keyword.
